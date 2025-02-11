@@ -9,7 +9,7 @@ function exibirTexto(tag, texto){
 }
 function exibirMensagemInicial(){
     exibirTexto('h1', 'Jogo do número Secreto');
-    exibirTexto('p', 'Escolha um número de 1 a 100');
+    exibirTexto('p', 'Escolha um número de 1 a 10');
 }
 
 exibirMensagemInicial();
